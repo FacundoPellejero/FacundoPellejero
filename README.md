@@ -32,18 +32,10 @@ Soy un apasionado por la resolución de problemas a través del código y la arq
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[FacundoPellejero]&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Contacto
 
 Si querés charlar sobre tecnología o posibles colaboraciones, ¡no dudes en escribirme!
 
 - **LinkedIn:** [Tu Perfil]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/facundo-pellejero/))
-- **Email:** [mailto:facundopellejero.nt@gmail.com]
+- **Email:** [Facundo Pellejer](mailto:facundopellejero.nt@gmail.com)
