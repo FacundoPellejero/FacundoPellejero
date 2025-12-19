@@ -37,5 +37,5 @@ Soy un apasionado por la resolución de problemas a través del código y la arq
 
 Si querés charlar sobre tecnología o posibles colaboraciones, ¡no dudes en escribirme!
 
-- **LinkedIn:** [Facundo Pellejero]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/facundo-pellejero/))
-- **Email:** [Facundo Pellejer](mailto:facundopellejero.nt@gmail.com)
+- **LinkedIn:** [Facundo Pellejero](https://www.linkedin.com/in/facundo-pellejero/)
+- **Email:** [facundopellejero.nt@gmail.com](mailto:facundopellejero.nt@gmail.com)
